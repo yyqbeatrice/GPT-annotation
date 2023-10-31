@@ -1,0 +1,1 @@
+The original data is from: [Toloka/BestPrompts: Best Prompts for Text-to-Image Models (github.com)](https://github.com/toloka/BestPrompts)
