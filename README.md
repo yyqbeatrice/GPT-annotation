@@ -5,8 +5,11 @@
 - **prompt**: data labeled by two researchers. 90pro_CL.csv includes prompts collaboratively labeled and there are another five prompts used as few-shot examples are included in the code. 208pro_IL includes prompts labeled individually.
 - **dataset**: original dataset and source link
 - **modifier definition**: modifier definition input for GPT and modifiier definition used in lab member annotation process
-- **researcher_anno**: annotation results for 208 prompts from two researchers, and collaboratively labeled results for 90 prompts
-- **test_prompt.csv**: All 298 prompts used for analysis
+- **researcher_anno**:
+  - annotation results for 208 prompts from two researchers, and collaboratively labeled results for 90 prompts
+  - prompts used as examples for few-shot prompting are included in the code/GPT_prompt.py
+- **test_prompt.csv**: all 298 prompts used for analysis
+
   
 
 
