@@ -1,0 +1,12 @@
+modifier,definition
+subject,"""Subject"": ""Refers to the primary object or focal point within an image, capturing the viewer's attention and serving as the central focus."","
+style,"""Style"": ""Encompasses the artistic approach and desired visual characteristics in the image. It includes elements such as the choice of artistic medium, artistic references, and rendering techniques."","
+mood,"""Mood"": ""Represents the emotional or intellectual message that the image should convey to the viewer, evoking a specific sentiment or thought."","
+lightening,"""Lighting"": ""Describes how the scene in the image is illuminated, encompassing attributes like light quality, source, and direction to set the visual ambiance."","
+environment,"""Environment"": ""Relates to the setting or context in which the image takes place, spanning physical locations and imaginative or fictional realms."","
+color,"""Color"": ""Refers to the color scheme and palette employed within the image, encompassing considerations of vibrancy, saturation, and the selection of specific colors to create a particular visual impact."","
+Element Value,"""Element Value"": ""Involves technical and compositional aspects of the image, potentially including technical specifications like resolution, aspect ratios, and descriptive terms that define the image."","
+Composition,"""Composition"": ""Relates to the arrangement of elements within the image frame, encompassing considerations of camera angles, settings, and principles of organization to achieve a desired visual composition."","
+Repeating terms,"""Repeating term"": ""Identifies and describes elements that are recurrent or duplicated within the image, highlighting patterns or repetitions."","
+Collective Nouns,"""Collective Noun"": ""Involve the use of specific numbers or collective nouns to describe groups of objects within the image, specifying quantities or groupings of subjects."","
+negative prompts,"""Negative prompt"": ""Relate to the exclusion of specific elements or aspects from the image description, indicating what should not be included."","

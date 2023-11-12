@@ -1,0 +1,14 @@
+modifers,definition
+subject,"The subject refers to the primary object or focal point of the image (e.g. 'person', 'dog')."
+style,"Style refers to the artistic approach and visual characteristics desired in the image. It includes elements like the choice of artistic medium (e.g., oil painting, watercolor), artistic references (e.g., 'Impressionism', 'Cubism'), and rendering techniques (e.g., 'Unreal Engine6', 'OctaneRender7')."
+mood,"""Mood"": ""Mood refers to the emotional or intellectual message that the image should convey (e.g., 'calm', 'energetic').""  viewers¡¯ emotion feeling evoked the image; mood from the subject in the image"
+lightening,"""Lighting"": ""Lighting refers to how the scene in the image is illuminated. It encompasses attributes like the quality (e.g., 'soft', 'harsh'), source (e.g., 'natural', 'artificial'), and direction of light."", dark background"
+environment,"""Environment"": ""Environment refers to the setting or context in which the image takes place. It can range from physical locations (e.g., 'indoors', 'outdoors') to imaginative or fictional realms (e.g., 'fantasy worlds', 'underwater')."","
+color,"""Color"": ""Color refers to the color scheme and palette used within the image. It includes characteristics like vibrancy, saturation, and the choice of specific colors (e.g., 'monochromatic', 'pastel')."""
+Element Value,"""Element Value"": ""Element value refers to technical and compositional aspects of the image(e.g.,'line', 'texture'). It may also involve technical specifications like resolution (e.g., '4K,' '8K'), aspect ratios (e.g., '16:9,' '9:16'), and descriptive terms (e.g., 'upscaled,' 'detailed'£¬¡®intricate¡¯)."" smooth"
+Composition,"""Composition"": ""Composition refers to the arrangement of elements within the frame of an image(e.g., 'portrait', 'headshot'), or camera angles or settings(e.g. 'proximity', 'position'), and principles of organization (e.g., 'harmony', 'variety')."","
+Repeating terms,"""Repeating terms"": ""Repeating refers to repeated elements(e.g., ""Space whale. A whale in space."").¡±"
+Adjectives,"Adjectives or phrases describe the property(state: e.g. motion, cloth) of subject other than color and mood, e.g. ¡®cute¡¯, ¡®in the shape of a fish¡¯"
+Collective Nouns,"specific numbers. ""Three cats"" is more specific than ""cats."" Collective nouns, ¡°flock of birds¡± instead of ""birds.¡±"
+atmosphere,the description of background without specific location e.g. gloomy atmosphere
+negative prompts,"without, ¡ªno"
